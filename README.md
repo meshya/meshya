@@ -18,5 +18,5 @@ Here are some ideas to get you started:
     3) matrix   : @mohali4:matrix.org
     4) tweeter  : @mohali_4
 
-- 🧐 What does mohali do as programer:
+- 🧐 What does mohali do as programer:<br>
    Mohali isn't a perfect programmer but I think I can name myself jonior Django developer
