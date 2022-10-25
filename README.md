@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 What mohali is doing these days: 
     I’m currently Studying to go university.
 
-- 🌹 What mohali wants from being in GitHub, etc:
+- 🌹 What mohali wants from being in GitHub, etc: <br>
     I'm looking for new friends
 
 - 📡 How to communicate with mohali:
