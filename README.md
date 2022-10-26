@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 What mohali is doing these days: 
+- 🔭 What mohali is doing these days: <br>
     I’m currently Studying to go university.
 
 - 🌹 What mohali wants from being in GitHub, etc: <br>
     I'm looking for new friends
 
-- 📡 How to communicate with mohali:
-    1) email    : mahmohamad560@gmail.com
+- 📡 How to communicate with mohali:<br>
+    1) email    : mohali4h@gmail.com
     2) telegram : @mohali4
     3) matrix   : @mohali4:matrix.org
     4) tweeter  : @mohali_4
