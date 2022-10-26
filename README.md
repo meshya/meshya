@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧐 What does mohali do as programer:<br>
-   He's a Jonior Django developer and doesn't do any special thing for now<br>
+   He's a Jonior Django developer and doesn't do any special thing currently<br>
 
 - 🔭 What mohali is doing these days: <br>
     He's currently Studying to go university.<br>
