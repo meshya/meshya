@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🧐 What does mohali do as programer:<br>
    He's a Jonior Django developer and doesn't do any special thing for now
 
-NOTICE: mohali loves tangerine
+NOTICE: mohali loves tangerine<br>
 NOTICE: mohali isn't good enough in English
