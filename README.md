@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 - 📡 How to communicate with mohali:<br>
     1) email    : mohali4h@gmail.com
-    2) telegram : @mohali4
-    3) matrix   : @mohali4:matrix.org
-    4) tweeter  : @mohali_4
+    2) matrix   : @mohali4:matrix.org
+    3) tweeter  : @mohali_4
 
 NOTICE: mohali loves tangerine<br>
 NOTICE: mohali isn't good enough in English
