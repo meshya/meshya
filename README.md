@@ -25,5 +25,4 @@ Here are some ideas to get you started:
     2) matrix   : @mohali4:matrix.org
     3) tweeter  : @mohali_4
 
-NOTICE: mohali loves tangerine<br>
-NOTICE: mohali isn't good enough in English
+NOTICE: mohali loves tangerine
