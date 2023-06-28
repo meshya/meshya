@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 📡 How to communicate with mohali:<br>
     1) email    : mohali4h@gmail.com
     2) matrix   : @mohali4:matrix.org
-    3) mastodon  : @mohali4
+    3) mastodon  : @mohali4@mastodon.social
 
 NOTICE: mohali loves tangerine
