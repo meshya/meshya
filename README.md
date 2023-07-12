@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🧐 What does mohali do as programer:<br>
-   He's a Jonior Django developer and doesn't do any special thing currently<br>
+   He's a Jonior Django developer and coding : )<br>
 
 - 🔭 What mohali is doing these days: <br>
-    He's currently Studying to go university.<br>
+    He's creating an app for easier use of redsocks<br>
 
 - 🌹 What mohali wants from being in GitHub, etc: <br>
-    He's looking for new friends<br>
+    Find a way to connect out of censorship internet
 
 - 👩‍💻 What's mohalis environment: <br>
    OS : Arch Linux <br>
