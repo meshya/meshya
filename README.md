@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🧐 What does mohali do as programer:<br>
-   He's a Jonior Django developer and coding : )<br>
+   He's a accept project before learning the requirement person : )<br>
 
 - 🔭 What mohali is doing these days: <br>
-    He's creating an app for easier use of redsocks<br>
+    He's working in behpouyan and studying computer science in FUM<br>
 
 - 🌹 What mohali wants from being in GitHub, etc: <br>
     Find a way to connect out of censorship internet
